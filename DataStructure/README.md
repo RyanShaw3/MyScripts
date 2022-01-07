@@ -1,2 +1,4 @@
-# Date-Structure
-大二上学期数据结构课的代码总结
+# DateStructure
+数据结构课的代码总结，目前包含：
+
+- list
